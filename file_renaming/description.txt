@@ -1,0 +1,5 @@
+I renamed several text file in a folder to JPG file by using this simple python script
+#What the script does is that ,it searches for all text file in the that folder 
+#Appends them to  a list of text file
+#Then it loops through the list of text files changing the file extension of each file , one after the other to .JPG
+ NB. this python script can be customized according to the users needs
